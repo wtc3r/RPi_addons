@@ -1,0 +1,6 @@
+# working settings added to .\boot\config.txt:
+camera_auto_detect=1
+#start_x=1
+dtoverlay=vc4-kms-v3d
+#dtoverlay=vc4-fkms-v3d
+dtoverlay=imx219
